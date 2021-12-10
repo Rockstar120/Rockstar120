@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVVM Mooc</string>
+
+    <string name="error_text">An error occurred while loading Data.</string>
+    <string name="author_name">Author Name</string>
+    <string name="author_image">Author Image</string>
+    <string name="bio">Bio</string>
+
+
+</resources>
